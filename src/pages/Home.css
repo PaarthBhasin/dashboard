@@ -1,0 +1,23 @@
+/* .e-headercelldiv {
+  background-color: #883bf4;
+}
+
+.e-grid .e-headercell {
+  background-color: #883bf4;
+}
+.e-headercell {
+  color: white;
+  font-size: 0.5rem;
+  font-weight: bold;
+  background-color: #a32eff;
+}
+*/
+.e-grid .e-columnheader .e-headercell {
+  background-color: #4f2d7f;
+  color: white;
+  font-size: large;
+}
+
+.e-grid .e-altrow {
+  background-color: #fafafa;
+}
