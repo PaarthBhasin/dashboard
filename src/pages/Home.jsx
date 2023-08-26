@@ -37,6 +37,7 @@ const Home = () => {
         allowSorting
         allowExcelExport
         allowPdfExport
+        enableStickyHeader={true}
         contextMenuItems={contextMenuItems}
         toolbar={toolbarSettings}
         toolbarClick={clickhandler}
